@@ -1,4 +1,4 @@
-# 🏦 Efficient Banking System
+# 🏦 FinStruct: A High-Performance Banking System with Optimized Data Structures
 
 A high-performance banking system simulation built with optimized data structures, featuring real-time account management and efficient transaction processing.
 
