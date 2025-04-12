@@ -1,4 +1,4 @@
-# 🏦 Efficient Banking System Design}
+# 🏦 Efficient Banking System Design
 
 A high-performance banking system simulation built with optimized data structures, featuring real-time account management and efficient transaction processing.
 
